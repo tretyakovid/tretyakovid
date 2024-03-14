@@ -1,2 +1,2 @@
 # Hi there, I'm Dmitriy!
-### Computer science student, IT news writer from Russia 🇷🇺
+### I develop websites using pure code
