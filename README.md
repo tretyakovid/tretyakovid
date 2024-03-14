@@ -1,2 +1,2 @@
 # Hi there, I'm Dmitriy!
-### I develop websites using pure code
+### I develop websites using pure code 🌐
