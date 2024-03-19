@@ -1,4 +1,4 @@
-# Привет! Меня зовут Дмитрий!
+# Привет[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Дмитрий!
 ### Frontend разработчик
 Я начинающий Frontend разработчик. Свой путь в IT я начал самостоятельно, изучая и пробуя себя во многих направлениях, пробовал изучать язык Java, Python, Си, попробовал свои силы в Go, но больше всего меня зацепила Frontend разработка! С ноября 2023 года по март 2024 я изучал Frontend разработку. В настоящий момент мое обучение продолжается в других направлениях.
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-dmitriy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tretyakovid) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vip.demon1088@gmail.com)
